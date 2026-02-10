@@ -104,6 +104,11 @@
           "link": "https://www.cardsagainsthumanity.com/"
         },
         {
+          "sponsor": "Wolfram",
+          "logo": "https://github.com/campfirecanberra/assets/raw/refs/heads/main/assets/wolfram.png",
+          "link": "https://www.wolfram.com/"
+        },
+        {
           "sponsor": ".xyz",
           "logo": "https://github.com/campfirecanberra/assets/raw/refs/heads/main/assets/xyz-white-logo.svg",
           "link": "https://gen.xyz"
