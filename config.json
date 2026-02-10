@@ -90,22 +90,22 @@
         },
         {
           "sponsor": "PCBWay",
-          "logo": "https://github.com/ingoau/campfire-canberra/raw/refs/heads/main/assets/PCBWay.png",
+          "logo": "https://github.com/campfirecanberra/assets/raw/refs/heads/main/assets/PCBWay.png",
           "link": "https://www.pcbway.com/"
         },
         {
           "sponsor": "Jane Street",
-          "logo": "https://github.com/ingoau/campfire-canberra/raw/refs/heads/main/assets/jane-street.svg",
+          "logo": "https://github.com/campfirecanberra/assets/raw/refs/heads/main/assets/jane-street.svg",
           "link": "https://www.janestreet.com/"
         },
         {
           "sponsor": "Cards Against Humanity",
-          "logo": "https://github.com/ingoau/campfire-canberra/raw/refs/heads/main/assets/featuring-cah-white.png",
+          "logo": "https://github.com/campfirecanberra/assets/raw/refs/heads/main/assets/featuring-cah-white.png",
           "link": "https://www.cardsagainsthumanity.com/"
         },
         {
           "sponsor": ".xyz",
-          "logo": "https://github.com/ingoau/campfire-canberra/raw/refs/heads/main/assets/xyz-white-logo.svg",
+          "logo": "https://github.com/campfirecanberra/assets/raw/refs/heads/main/assets/xyz-white-logo.svg",
           "link": "https://gen.xyz"
         }
       ]
