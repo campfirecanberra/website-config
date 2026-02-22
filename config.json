@@ -70,13 +70,15 @@
           "date": "28th Feb",
           "items": [
             { "time": "8:30 AM", "activity": "Doors open" },
-            { "time": "9:00 AM", "activity": "Opening ceremony" }
+            { "time": "9:00 AM", "activity": "Opening ceremony" },
+            { "time": "7:00 pm", "activity": "Ends for the day" }
           ]
         },
         {
           "date": "1st Mar",
           "items": [
-            { "time": "8:00 AM", "activity": "Doors open" }
+            { "time": "8:00 AM", "activity": "Doors open" },
+            { "time": "6:00 pm", "activity": "Closing ceremony" }
           ]
         }
       ]
